@@ -1,0 +1,1 @@
+Silakan ganti dengan screenshot aplikasi (perintah: taruh file di folder screenshots dan commit).
